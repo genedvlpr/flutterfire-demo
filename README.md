@@ -1,3 +1,3 @@
 # Flutterfire
 
-A demo Flutter project with Firebase integration.
+A Demo Flutter project with Firebase integration.
