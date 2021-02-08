@@ -1,8 +1,7 @@
 # FlutterFire
 A Demo Flutter project with Firebase integration.
-![](https://drive.google.com/uc?export=view&id=1VmlufO566KDqAaq5AJCGc9ZyJ1N3-sAW)    
 
-<a href="https://drive.google.com/uc?export=view&id=1VmlufO566KDqAaq5AJCGc9ZyJ1N3-sAW">
+<img src="https://drive.google.com/uc?export=view&id=1VmlufO566KDqAaq5AJCGc9ZyJ1N3-sAW" style="width: 480px; max-width: 100%; height: auto" />
 
 # Integrations
 - Firebase Auth, Analytics and Firestore
